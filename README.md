@@ -43,10 +43,6 @@ Cognivision AI brings in contextual understanding:
 - 😐 Neutral  
 - 😖 Disgust
 
-## 📸 Sample Screenshots
-
-> Add screenshots or a demo video link here if available.
-
 ## 🧪 Model Evaluation
 
 | Model        | Accuracy | Training Time | Memory Usage |
