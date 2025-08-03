@@ -18,22 +18,6 @@ A real-time facial emotion recognition system that leverages deep learning (CNNs
 - 📊 Automatic model selection based on defined metrics
 - 🌐 Flask web interface for smooth interaction
 
-## 📁 Project Structure
-
-├── app.py # Flask web application
-├── evaluation_model.py # Training, evaluating and selecting best model
-├── model.py # CNN model definitions and model loader
-├── uploads/ # Folder for uploaded images
-├── templates/
-│ └── index.html # Frontend UI
-├── static/
-│ └── styles.css # Optional: custom styles
-└── models/ # Trained models saved here
-
-markdown
-Copy
-Edit
-
 ## 🧠 Cognitive AI Aspect
 
 Cognivision AI brings in contextual understanding:
